@@ -13,6 +13,8 @@ Welcome to my GitHub! I am a **Data Analyst** inspired by the logical and analyt
 - **Tools:** Microsoft Excel, Tableau, MySQL Workbench
 - **Techniques:** Data Cleaning, Descriptive Statistics, Data Visualisation, Pivot Tables, Data Analysis, Predictive Modelling, Statistical Analysis
 
+### 📃 Resume
+
 ### 📂 Projects
 Pray take a look at some of my featured projects:
 
