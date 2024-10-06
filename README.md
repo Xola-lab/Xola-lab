@@ -1,4 +1,4 @@
-# Hi, my name is Lind'ikhaya Xola! 😀
+# About me 🎩
 
 ## Data Analyst | Python | Excel | SQL | Data Visualisation 
 
@@ -6,7 +6,7 @@
 <img src="20241006_025152_0000.png">
 </p>
 
-Welcome to my GitHub! I am a **Data Analyst** inspired by the logical and analytical mind of Sherlock Holmes. Here, I use my skills in **Data Analysis** to solve mysteries, uncover patterns, and bring clarity to complex datasets.
+Hi! My name is Lind'ikhaya Xola and welcome to my GitHub! I am a **Data Analyst** inspired by the logical and analytical mind of Sherlock Holmes. Here, I use my skills in **Data Analysis** to solve mysteries, uncover patterns, and bring clarity to complex datasets.
 
 ### 🧠 Analytical Expertise:
 - **Languages:** Python, SQL
