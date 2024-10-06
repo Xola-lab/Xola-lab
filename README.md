@@ -2,6 +2,10 @@
 
 ## Data Analyst | Python | Excel | SQL | Data Visualisation 
 
+<p align="center">
+<img src="Data Structure.png">
+</p>
+
 Welcome to my GitHub! I am a **Data Analyst** inspired by the logical and analytical mind of Sherlock Holmes. Here, I use my skills in **Data Analysis** to solve mysteries, uncover patterns, and bring clarity to complex datasets.
 
 ### 🧠 Analytical Expertise:
