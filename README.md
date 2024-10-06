@@ -1,13 +1,13 @@
-# Hi, I'm Lind'ikhaya Xola! 👋
+# Hi, my name is Lind'ikhaya Xola! 😀
 
 ## Data Analyst | Python | Excel | SQL | Data Visualisation 
 
-Welcome to my GitHub! I am a **Data Analyst** inspired by the logical deduction of Sherlock Holmes, to uncover insights from data and present actionable recommendations.
+Welcome to my GitHub! I am a **Data Analyst** inspired by the logical and analytical mind of Sherlock Holmes. Here, I use my skills in **Data Analysis** to solve mysteries, uncover patterns, and bring clarity to complex datasets.
 
-### 🚀 Skills & Tools:
+### 🧠 Analytical Expertise:
 - **Languages:** Python, SQL
 - **Tools:** Microsoft Excel, Tableau, MySQL Workbench
-- **Techniques:** Data Cleaning, Descriptive Statistics, Data Visualisation, Pivot Tables, Data Analysis
+- **Techniques:** Data Cleaning, Descriptive Statistics, Data Visualisation, Pivot Tables, Data Analysis, Predictive Modelling, Statistical Analysis
 
 ### 📂 Projects
 Take a look at some of my featured projects:
