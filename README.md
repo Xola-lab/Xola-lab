@@ -14,7 +14,7 @@ Feel free to connect and explore my work!
 - **Languages:** Python, SQL
 - **Tools:** Microsoft Excel, Tableau, MySQL Workbench
 - **Techniques:** Data Cleaning, Exploratory Data Analysis, Descriptive Statistics, Data Analysis, Predictive Modelling, Statistical Analysis
-- **Specialisation**: I specialise in Data Visualisation amd Storytelling.
+- **Specialisation**: Data Visualisation amd Storytelling.
 
 ### 📃 Resume
 Download or view my Resume [here](https://github.com/Xola-lab/Xola-lab/blob/main/Lind'ikhaya%20Xola%20Resume%201.pdf)
