@@ -14,6 +14,7 @@ Welcome to my GitHub! I am a **Data Analyst** inspired by the logical and analyt
 - **Techniques:** Data Cleaning, Descriptive Statistics, Data Visualisation, Pivot Tables, Data Analysis, Predictive Modelling, Statistical Analysis
 
 ### 📃 Resume
+Download or view my Resume [here]
 
 ### 📂 Projects
 Pray take a look at some of my featured projects:
