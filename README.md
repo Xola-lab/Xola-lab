@@ -6,7 +6,9 @@
 <img src="20241006_025152_0000.png">
 </p>
 
-Hi! My name is Lind'ikhaya Xola and welcome to my GitHub! I am a **Data Analyst** inspired by the analytical mind of Sherlock Holmes. My passion lies in uncovering patterns, solving mysteries, and translating data into insightful conclusions. Feel free to connect and explore my work!
+Hi, my name is **Lind'ikhaya Xola** and welcome to my GitHub! I am a **Data Analyst** inspired by the analytical mind of Sherlock Holmes. My passion lies in uncovering patterns, solving mysteries, and translating data into insightful conclusions.
+
+Feel free to connect and explore my work!
 
 ### 🧠 Analytical Expertise:
 - **Languages:** Python, SQL
