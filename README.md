@@ -10,7 +10,7 @@ Welcome to my GitHub! I am a **Data Analyst** inspired by the logical and analyt
 - **Techniques:** Data Cleaning, Descriptive Statistics, Data Visualisation, Pivot Tables, Data Analysis, Predictive Modelling, Statistical Analysis
 
 ### 📂 Projects
-Take a look at some of my featured projects:
+Pray take a look at some of my featured projects:
 
 - 📊 [Excel Data Analysis](https://github.com/Xola-lab/Excel-Data-Analysis)  
 - 🛠️ [Python Data Analysis Projects](https://github.com/Xola-lab/oibsip_taskno)
