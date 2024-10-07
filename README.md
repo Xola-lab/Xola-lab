@@ -34,8 +34,7 @@ I recently completed a project where I analysed the **Income Data of South Afric
 I am currently building a **Sales Dashboard** using the Python library **Streamlit** to create a web app. This project aims to provide interactive, real-time insights into sales data through a clean and dynamic interface.
 
 ### 🔍 Let's Connect!
-Find me on [LinkedIn](https://www.linkedin.com/in/lind-ikhaya-xola-a536b41b6) where I share updates and professional insights!
-
+- Find me on [LinkedIn](https://www.linkedin.com/in/lind-ikhaya-xola-a536b41b6) where I share updates and professional insights!
 ---
 
 > From raw data to insightful conclusions, I’m dedicated to using data to solve problems, uncover patterns, and optimise decisions.
