@@ -24,6 +24,7 @@ Take a look at some of my featured projects:
 
 - 📊 [Excel Data Analysis](https://github.com/Xola-lab/Excel-Data-Analysis)  
 - 🛠️ [Python Data Analysis Projects](https://github.com/Xola-lab/oibsip_taskno)
+- 🗃️ [SQL Database Project](https://github.com/Xola-lab/SQL-Database-Project)
 
 ### 📈 Recent Work:
 I recently completed a project where I analysed the **Income Data of South African Airways (SAA) Group**. This involved in-depth analysis of their financial performance over the years, providing insights into total income, net profits, and operational efficiency. You can check out the project here:
