@@ -20,7 +20,7 @@ Feel free to connect and explore my work!
 Download or view my Resume [here](https://github.com/Xola-lab/Xola-lab/blob/main/Lind'ikhaya%20Xola%20Resume%201.pdf)
 
 ### 📂 Projects
-Pray take a look at some of my featured projects:
+Take a look at some of my featured projects:
 
 - 📊 [Excel Data Analysis](https://github.com/Xola-lab/Excel-Data-Analysis)  
 - 🛠️ [Python Data Analysis Projects](https://github.com/Xola-lab/oibsip_taskno)
