@@ -32,7 +32,7 @@ I recently completed a project where I analysed the **Income Data of South Afric
 - ✈️ [SAA Group Income Data Analysis](https://github.com/Xola-lab/Excel-Analysis-of-SAA-Group)
 
 ### 🌱 On a Learning Journey:
-I am currently building a **Sales Dashboard** using the Python library **Streamlit** to create a web app. This project aims to provide interactive, real-time insights into sales data through a clean and dynamic interface.
+I am currently doing an online **Data Science** internship with **Prodigy InfoTech**.
 
 ### 🔍 Let's Connect!
 - Find me on [LinkedIn](https://www.linkedin.com/in/lind-ikhaya-xola-a536b41b6) where I share updates and professional insights!
