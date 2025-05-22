@@ -16,9 +16,6 @@ Feel free to connect and explore my work!
 - **Techniques:** Data Cleaning, Exploratory Data Analysis, Descriptive Statistics, Data Analysis, Predictive Modelling, Statistical Analysis
 - **Specialisation**: Data Visualisation amd Storytelling.
 
-### 📃 Resume
-Download or view my Resume [here](https://github.com/Xola-lab/Xola-lab/blob/main/Lind'ikhaya%20Xola%20Resume%201.pdf)
-
 ### 📂 Projects
 Take a look at some of my featured projects:
 
